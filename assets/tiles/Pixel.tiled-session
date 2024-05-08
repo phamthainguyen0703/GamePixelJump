@@ -1,0 +1,158 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level-03.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "1Demo.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 222.99999999999997,
+                "y": 65.66666666666663
+            }
+        },
+        "C:/Users/FTC Laptop/Downloads/Compressed/GameJump4ever-Flutter-main/assets/tiles/Level-01.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 4,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 119.75,
+                "y": 75.375
+            }
+        },
+        "C:/Users/FTC Laptop/Downloads/Compressed/GameJump4ever-Flutter-main/assets/tiles/Level-02.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 3.9098437499999994,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 160.1086999960037,
+                "y": 92.20317308076572
+            }
+        },
+        "C:/Users/FTC Laptop/Downloads/Compressed/GameJump4ever-Flutter-main/assets/tiles/Level-03.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 3.9098437499999994,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 160.1086999960037,
+                "y": 92.20317308076572
+            }
+        },
+        "C:/Users/FTC Laptop/Downloads/Compressed/GameJump4ever-Flutter-main/assets/tiles/Level-04.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 3.9098437499999994,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 160.1086999960037,
+                "y": 92.20317308076572
+            }
+        },
+        "JumpGame.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
+        "Level-01.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 5.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 51.81818181818181,
+                "y": 57.9090909090909
+            }
+        },
+        "Level-02.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 5.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 147.09090909090912,
+                "y": 66.63636363636364
+            }
+        },
+        "Level-03.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 165.33333333333331,
+                "y": 117.5
+            }
+        },
+        "Level-04.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 120.49999999999997,
+                "y": 90.33333333333334
+            }
+        },
+        "Level-1.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 279.5,
+                "y": 144.5
+            }
+        }
+    },
+    "last.imagePath": "E:/Flutter/jump_game/assets/images/sprite_tiles",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 40,
+    "openFiles": [
+        "JumpGame.tsx",
+        "Level-01.tmx",
+        "Level-02.tmx",
+        "Level-03.tmx"
+    ],
+    "project": "Pixel.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "JumpGame.tsx",
+        "Level-01.tmx",
+        "Level-02.tmx",
+        "Level-03.tmx",
+        "Level-04.tmx",
+        "1Demo.tmx",
+        "Level-1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}

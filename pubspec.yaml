@@ -1,0 +1,58 @@
+name: jump_game
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flame: ^1.14.0
+  flame_tiled: ^1.18.3
+  flame_audio: ^1.3.3
+  video_player: ^2.8.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.13.1"
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/tiles/
+    - assets/audio/player/
+    - assets/backgrounds/
+    - assets/images/sprite_tiles/
+    - assets/images/HUD/
+    - assets/images/Items/Foods/
+    - assets/images/Items/Saw/
+    - assets/images/Items/Door/
+    - assets/images/Items/Lava/
+    - assets/images/Items/Effect/Collected/
+    - assets/images/Monsters/Octopus/
+    - assets/images/Monsters/FlyMonster/
+    - assets/images/Monsters/SlimeGreen/
+    - assets/images/Monsters/SlimeYellow/
+    - assets/images/Monsters/SlimeGray/
+    - assets/images/Monsters/SlimePurple/
+    - assets/images/main_charater/cat_white/
+    - assets/images/main_charater/cat_blue/
+    - assets/images/Background/
+    - assets/videos/
+  fonts:
+    - family: PixelFont
+      fonts:
+        - asset: assets/fonts/PixelFont.ttf
+    - family: PixelFontBold
+      fonts:
+        - asset: assets/fonts/PixelFont-Bold.ttf
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/Icon.png"
